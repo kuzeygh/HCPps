@@ -1,0 +1,13 @@
+{
+  "datasetID": 2,
+  "targetColumn": "IS_FRAUD",
+  "equationFormat": "CSV"
+}
+
+{
+  "datasetID": 2,
+  "targetColumn": "IS_FRAUD",
+  "equationFormat": "HANA",
+  "keyColumn": "CLAIM_ID",
+  "datasetName": "PS_DATA.AUTO_CLAIMS_NEW"
+}

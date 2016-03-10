@@ -1,0 +1,11 @@
+{
+  "hanaURL": "PS_DATA/CASHFLOWS"
+}
+
+{
+  "datasetID": 3,
+  "targetColumn": "Cash",
+  "dateColumn": "Date",
+  "numberOfForecasts": 5,
+  "referenceDate": "2001-12-01"
+}

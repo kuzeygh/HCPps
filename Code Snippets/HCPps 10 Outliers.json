@@ -1,0 +1,10 @@
+{
+  "hanaURL": "PS_DATA/CENSUS"
+}
+
+{
+  "datasetID": 4,
+  "targetColumn": "age",
+  "numberOfOutliers": 5,
+  "numberOfReasons": 4
+}

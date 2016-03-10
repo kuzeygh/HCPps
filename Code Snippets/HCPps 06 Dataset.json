@@ -1,0 +1,8 @@
+{
+  "hanaURL": "PS_DATA/AUTO_CLAIMS_FRAUD"
+}
+
+{
+  "datasetID": 2,
+  "targetColumn": "IS_FRAUD"
+}

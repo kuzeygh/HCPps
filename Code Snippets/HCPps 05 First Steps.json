@@ -1,0 +1,8 @@
+{
+  "hanaURL": "PS_DATA/SALES"
+}
+
+{
+  "datasetID": 1,
+  "targetColumn": "Opportunity_Value"
+}
