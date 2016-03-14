@@ -1,0 +1,12 @@
+{
+ "datasetID": 1,
+ "simulation": {
+  "variable": "Customer_Status",
+  "weights": [
+    {
+      "categories": ["prospect"],
+      "weight": 3.0
+    }
+  ]
+ }
+}
