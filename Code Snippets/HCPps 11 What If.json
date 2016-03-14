@@ -1,4 +1,8 @@
 {
+  "hanaURL": "PS_DATA/SALES"
+}
+
+{
  "datasetID": 1,
  "simulation": {
   "variable": "Customer_Status",
