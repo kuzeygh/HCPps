@@ -1,0 +1,8 @@
+	{
+      "path": "/destinations/ps",
+      "target": {
+        "type": "destination",
+        "name": "ps"
+      },
+      "description": "HCP predictive services"
+    },

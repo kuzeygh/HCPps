@@ -1,0 +1,5 @@
+			        <ComboBox items="{path: '/variables'}" id="comboTarget">
+					    <items>
+					        <sap.ui.core:ListItem text="{name}" key="{name}"/>
+				        </items>
+					</ComboBox>
