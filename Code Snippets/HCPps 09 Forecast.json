@@ -1,5 +1,8 @@
 {
-  "hanaURL": "PS_DATA/CASHFLOWS"
+	"location" : {
+		"schema" : "PS_DATA",
+		"table" : "CASHFLOWS"
+	}
 }
 
 {

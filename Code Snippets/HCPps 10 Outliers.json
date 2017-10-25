@@ -1,5 +1,8 @@
 {
-  "hanaURL": "PS_DATA/CENSUS"
+	"location" : {
+		"schema" : "PS_DATA",
+		"table" : "CENSUS"
+	}
 }
 
 {

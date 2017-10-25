@@ -1,5 +1,8 @@
 {
-  "hanaURL": "PS_DATA/AUTO_CLAIMS_FRAUD"
+	"location" : {
+		"schema" : "PS_DATA",
+		"table" : "AUTO_CLAIMS_FRAUD"
+	}
 }
 
 {
